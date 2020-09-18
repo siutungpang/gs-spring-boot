@@ -65,7 +65,7 @@
          <version>2.2</version>
          <configuration>
          <server>tomcat-development-server</server>
-         <url>http://144.38.193.251:8080/manager/text</url>
+         <url>http://23.21.241.40:8080/manager/text</url>
          <warFile>target\hello.war</warFile>
          <path>/hello</path>
          <username>admin</username>
