@@ -69,7 +69,7 @@
          <warFile>target\hello.war</warFile>
          <path>/hello</path>
          <username>admin</username>
-        <password>cloud@123</password>
+        <password>8648297h98j98</password>
          </configuration>
      </plugin>  
 
